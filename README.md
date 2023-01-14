@@ -21,7 +21,7 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ala-Alsanea&show_icons=true&theme=tokyonight)](https://github.com/Ala-Alsanea)
+
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/Ala-Alsanea)
 
