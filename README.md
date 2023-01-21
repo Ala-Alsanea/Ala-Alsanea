@@ -19,9 +19,18 @@
 *****
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ala-Alsanea&theme=tokyonight_duo&border_radius=11.1&mode=weekly)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ala-alsanea&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ala-alsanea)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/Ala-Alsanea) is the best  
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ala-Alsanea/count.svg" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1ECCFF&section=footer"/>
