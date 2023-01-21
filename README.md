@@ -25,11 +25,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ala-alsanea)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+*****
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/Ala-Alsanea) is the best  
 
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Ala-Alsanea/count.svg" />
 </p>
 
