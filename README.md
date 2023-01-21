@@ -13,15 +13,15 @@
 - 🪜 I’m currently learning Laravel & Svelte
 - 🤜 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ala-alsanea.github.io?target="_blank")**, and you can reach me from there
-<br>
-<br>
 
+
+
+*****
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ala-Alsanea&theme=tokyonight_duo&border_radius=11.1&mode=weekly)](https://git.io/streak-stats)
 
 
 
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/Ala-Alsanea) is the best  
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1ECCFF&section=footer"/>
