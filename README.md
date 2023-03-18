@@ -27,7 +27,7 @@
 
 
 *****
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://github.com/Ala-Alsanea) is the best  
+
 
 
 <p align="center"> 
