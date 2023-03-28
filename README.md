@@ -10,15 +10,14 @@
 ## About Me
 
 - 🎓 I’m a student of **Computer Science**
-- 🪜 I’m currently learning Laravel & Svelte
+- 🪜 I love learning new stuff and Tech
 - 🤜 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ala-alsanea.github.io?target="_blank")**, and you can reach me from there
 
 
 
 *****
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ala-Alsanea&theme=tokyonight_duo&border_radius=11.1&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ala-Alsanea&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ala-alsanea&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
