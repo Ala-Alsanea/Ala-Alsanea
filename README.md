@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 I’m a student of **Computer Science**
+- 🎓 I’m a **Computer Science** Graduated student 
 - 🪜 I love learning new stuff and Tech
 - 🤜 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ala-alsanea.github.io?target="_blank")**, and you can reach me from there
