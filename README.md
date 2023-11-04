@@ -3,8 +3,16 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1ECCFF&"/>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console+&size=35&duration=2000&pause=1000&color=1ECCFF&width=700&height=100&lines=Hello+World+!!!;I'm+Ala+%F0%9F%98%81+...;%3CA+Full-Stack+Developer%2F%3E+...;Visit+my+Website+for+more+info.+;and+have+a+GOOD+day+%F0%9F%A4%9C%F0%9F%A4%9B+)](https://github.com/Ala-Alsanea)
 
+</div>
+
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> 
+</p>
 
 
 ## 👨‍💻 About Me
@@ -23,8 +31,10 @@
 
 
 ## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ala-alsanea)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ala-alsanea)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
@@ -32,5 +42,4 @@
   Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Ala-Alsanea/count.svg" />
 </p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1ECCFF&section=footer"/>
