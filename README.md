@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console+&size=35&duration=2000&pause=1000&color=1ECCFF&width=700&height=100&lines=Hello+World+!!!;I'm+Ala+%F0%9F%98%81+...;%3CA+Full-Stack+Developer%2F%3E+...;Visit+my+Website+for+more+info.+;and+have+a+GOOD+day+%F0%9F%A4%9C%F0%9F%A4%9B+)](https://github.com/Ala-Alsanea)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console+&size=35&duration=2000&pause=1000&color=00F7B1FF&width=700&height=100&lines=Hello+World+!!!;I'm+Ala+%F0%9F%98%81+...;%3CA+Full-Stack+Developer%2F%3E+...;Take+a+tour+in+my+Repos+🛄+;and+have+a+GOOD+day+%F0%9F%A4%9C%F0%9F%A4%9B+)](https://github.com/Ala-Alsanea)
 
 </div>
 
