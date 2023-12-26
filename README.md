@@ -15,11 +15,11 @@
 </p>
 
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-- 🎓 I’m a **Computer Science** Graduated student 
-- 🪜 I love learning new stuff and Tech
-- 🤝 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 I’m a Developer who wanna complete his side projects ...
+- 🪜 Curious of new stuff and Tech
+- 🤝 Looking to collaborate on **Open Source Projects**
 - 🗂️ All of my projects are available at my github profile.
 
 
