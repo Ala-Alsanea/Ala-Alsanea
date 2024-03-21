@@ -33,12 +33,13 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ala-alsanea&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-## 📊 GitHub Stats:
+
+<!--## 📊 GitHub Stats:
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ala-alsanea)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+-->
 
 
 <p align="center"> 
