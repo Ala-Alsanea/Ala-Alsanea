@@ -7,7 +7,7 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console+&size=35&duration=2000&pause=1000&color=00F7B1FF&width=700&height=100&lines=Hello+World+!!!;I'm+Ala+%F0%9F%98%81+...;%3CA+Full-Stack+Developer%2F%3E+...;Take+a+tour+in+my+Repos+🛄+;and+have+a+GOOD+day+%F0%9F%A4%9C%F0%9F%A4%9B+)](https://github.com/Ala-Alsanea)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console+&size=35&duration=2000&pause=1000&color=00F7B1FF&width=700&height=100&lines=Hello+World+!!!;I'm+Ala+%F0%9F%98%81+...;{A+Back-end+Developer};Take+a+tour+in+my+Repos+🛄+;and+have+a+Noice+day)](https://github.com/Ala-Alsanea)
 
 <img width="1129" alt="linkdin banner@2x" src="https://github.com/Ala-Alsanea/Ala-Alsanea/assets/88606691/f7d7a9a3-0b56-4704-88f5-cfcc8c4ab55e">
 </div>
