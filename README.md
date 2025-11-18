@@ -44,10 +44,10 @@
 <br>
 <br>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Ala-Alsanea/count.svg" />
 </p>
-<img width=100% src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+<img width=100% src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/> -->
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1ECCFF&section=footer"/> -->
